@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Admin/OneDrive/Documentos/Unreal Projects/GraveRobber/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Admin/OneDrive/Documentos/Unreal Projects/GraveRobber/Content/ThirdPerson/Maps/ThirdPersonMap_BuiltData.uasset",
+				"C:/Users/Admin/OneDrive/Documentos/Unreal Projects/GraveRobber/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/Admin/OneDrive/Documentos/Unreal Projects/GraveRobber/Content/ThirdPerson/Blueprints/UI.uasset",
+				"C:/Users/Admin/OneDrive/Documentos/Unreal Projects/GraveRobber/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Admin/OneDrive/Documentos/Unreal Projects/GraveRobber/Content/FirstPerson/Maps/FirstPersonMap.umap"
+			]
+		}
+	]
+}
